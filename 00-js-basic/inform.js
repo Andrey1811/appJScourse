@@ -119,7 +119,7 @@ const adi6969 = [
         "password": "admin_111124",
 
     },
-    vip =
+    vi =
     {
         "id": 3,
         "username": "admin",
